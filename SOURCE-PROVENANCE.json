@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "component": "seethis-runs",
+  "package_version": "0.4.1",
+  "runtime_source_commit": "53c640dbb518ab7dca88d7cac0f5df1d4a09c5c2",
+  "exported_from_commit": "d2df7dda7665eb919e0c3ed05d044122fd49027e",
+  "public_export": "Clean root; no private ancestry. Documentation and license added; implementation bytes unchanged.",
+  "files": [
+    {
+      "path": ".codex-plugin/plugin.json",
+      "sha256": "90782502138ae4f1393bda801072010bf84418bb0fa4f3d3fc115c05081a1ac9"
+    },
+    {
+      "path": ".mcp.json",
+      "sha256": "d403d1201d18b97715da27a55e6565a1866f8ecf939ec8089d998a95bcdd858c"
+    },
+    {
+      "path": "skills/seethis-runs/SKILL.md",
+      "sha256": "4d8f048067010ad1c7749b42b1f53a318597e13c574e21a9eaa21bdec7db0600"
+    },
+    {
+      "path": "seethis_runs/__init__.py",
+      "sha256": "a14b1484727b37a878abc54576d429aa4184d5f368f635bd48e9bc050adc3615"
+    },
+    {
+      "path": "seethis_runs/bridge.py",
+      "sha256": "5534cd9ffa19f995437efc3eca341cb1132dccf14c73cc98d34898af0d059d04"
+    },
+    {
+      "path": "seethis_runs/hooks.py",
+      "sha256": "d8d74ea7e61223c60977c410218ce967724bca51a1de11b18e4d5826dd093d8b"
+    },
+    {
+      "path": "seethis_runs/log_positions.py",
+      "sha256": "3f113eda0be1dfd18fe2b2e1f76b9383c30a320a7ef1429b8a1f4140682e57c5"
+    },
+    {
+      "path": "seethis_runs/log_reader.py",
+      "sha256": "53871e35bfb853d3450be381e82b0d4fbc776313501747eed33576655fed120d"
+    },
+    {
+      "path": "seethis_runs/mcp_server.py",
+      "sha256": "9c747caec7ddf86d500c4cce3cd4483660712c54ed30f6b9759f3b06c85eb30c"
+    },
+    {
+      "path": "seethis_runs/store.py",
+      "sha256": "3f6383f78f7f4c6a1f08787155ce9eb3ac5536dd260c75c52a3e0406b3e94371"
+    },
+    {
+      "path": "seethis_runs/view.py",
+      "sha256": "e0234664dea84225ebb3aaca7026897518283a520e0add671bd3a1618611fdd4"
+    },
+    {
+      "path": "tests/test_handoff.py",
+      "sha256": "353e22ce549e306ec6d3cf43605f5c7631fbf68208edec7253b96792c5e6559b"
+    },
+    {
+      "path": "tests/test_hooks.py",
+      "sha256": "fbeb09c0006ba65364a43ad607468a9344401976a6df54743f49fbeabcc70771"
+    },
+    {
+      "path": "tests/test_log_reader.py",
+      "sha256": "71d1a7390d6e9048caf368eefc8e478b5c72b127007fa7270610d3b395702c53"
+    },
+    {
+      "path": "tests/test_store.py",
+      "sha256": "80c77ba24a21b31be8e672069d14f54438229ab5b342d17bde147148c0a77e88"
+    }
+  ]
+}

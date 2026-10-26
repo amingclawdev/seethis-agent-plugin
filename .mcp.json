@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "seethis_runs": {
+      "command": "python3",
+      "args": ["./seethis_runs/mcp_server.py"],
+      "cwd": "."
+    }
+  }
+}
